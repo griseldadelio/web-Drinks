@@ -1,4 +1,4 @@
-Web para preparar tragos. Disponible en: 
+Web para preparar tragos. Disponible en: https://griseldadelio.github.io/web-Drinks/
     
     1)Obtener todos los tragos con la letra deseada desde la api
     2)Obtener y  armar un nuevo array/objeto de datos la siguiente informacion;
